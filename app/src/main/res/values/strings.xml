@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android-pip</string>
+    <string name="app_for_demostrating_the_picture_in_picture_mode_in_android">App for demostrating the Picture in Picture mode in Android</string>
+    <string name="enter_pip">Enter PIP</string>
 </resources>
